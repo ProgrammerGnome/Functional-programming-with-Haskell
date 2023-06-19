@@ -1,6 +1,7 @@
 # Parallel functional programming in Haskell
 ### This repository present usage of "Control.Parallel" Haskell library with the solve [KöMaL S.141. problem](https://www.komal.hu/feladat?a=feladat&f=S141&l=hu).
 I already solved this exercise in C++ an another repo, see:
+
 [https://github.com/ProgrammerGnome/Problem-S.141](https://github.com/ProgrammerGnome/Problem-S.141) .
 
 #### [FILE] Main.hs:
